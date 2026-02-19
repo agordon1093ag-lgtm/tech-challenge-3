@@ -185,7 +185,6 @@ Git & GitHub
 ✅ Proper state management (.gitignore configured)
 ✅ Private GitHub repository shared with mentor
 
-👩‍💻 Author
+Author
 
 Aundrea Gordon
-Cloud Engineer Coding Challenge 3 Submission
